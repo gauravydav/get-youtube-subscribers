@@ -16,12 +16,11 @@ The project provides several HTTP GET endpoints to retrieve subscriber data from
 
 To deploy this project, the Render platform was used. You can search for Render in Google to find more information about it.
 
-Author
-@gauravydav
+-Author:@gauravydav
 
-Acknowledgements
-node.js
-express.js
-mongodb-cloud
-mongoose
+-Acknowledgements:-
+node.js,
+express.js,
+mongodb-cloud,
+mongoose,
 nodemon
